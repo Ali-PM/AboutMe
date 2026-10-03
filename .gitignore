@@ -1,0 +1,22 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database & Environment variables
+*.sqlite3
+.env
+
+# Static & Media (توصیه می‌شود مدیاهای آپلودی روی گیت نروند)
+media/
+staticfiles/
+
+# IDE configs
+.idea/
+.vscode/
